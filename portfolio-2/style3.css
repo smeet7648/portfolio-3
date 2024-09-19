@@ -1,0 +1,118 @@
+#calculator{
+    background-color: black;
+    border: 5px solid rgb(47, 44, 44);
+    width: 475px;
+    height: 410px;   
+    margin-left: 510px;
+    margin-top: 110px;
+    border-radius: 15px;
+}
+.inp{
+    margin-left: 10px;
+    margin-top: 13px;
+    margin-bottom: 10px;
+}
+.inp input{
+    width: 453px;
+    height: 50px;
+    border: none;
+    background-color: white;
+    border-radius: 5px;
+    font-size: 40px;
+}
+.ac button , .ce button , .bs button , .a7 button , .a8 button , .a9 button , .a4 button , .a5 button , .a6 button , .a1 button , .a2 button , .a3 button , .a0 button , .point button{ 
+    background-color: rgb(255, 255, 255);
+    border: none;
+    border-radius: 5px;
+    width: 100px;
+    height: 55px;
+    font-size: 35px;
+}
+.divi button , .into button , .sub button , .sum button , .equal button , .per button{
+    background-color: rgb(9, 255, 251);
+    border: none;
+    border-radius: 5px;
+    width: 100px;
+    height: 55px;
+    font-size: 35px;    
+}
+.ac{
+    margin-left: 10px;
+    margin-top: 10px;
+}
+.ce{
+    margin-left: 129px;
+    margin-top: -55px;
+}
+.bs{
+    margin-left: 246px;
+    margin-top: -55px;
+}
+.divi{
+    margin-left: 364px;
+    margin-top: -55px;
+}
+.a7{
+    margin-left: 10px;
+    margin-top: 10px;
+}
+.a8{
+    margin-left: 129px;
+    margin-top: -54px;
+}
+.a9{
+    margin-left: 246px;
+    margin-top: -55px;
+}
+.into{
+    margin-left: 364px;
+    margin-top: -55px;
+}
+.a4{
+    margin-left: 10px;
+    margin-top: 10px;
+}
+.a5{
+    margin-left: 129px;
+    margin-top: -54px;
+}
+.a6{
+    margin-left: 246px;
+    margin-top: -55px;
+}
+.sub{
+    margin-left: 364px;
+    margin-top: -55px;
+}
+.a1{
+    margin-left: 10px;
+    margin-top: 10px;
+}
+.a2{
+    margin-left: 129px;
+    margin-top: -54px;
+}
+.a3{
+    margin-left: 246px;
+    margin-top: -55px;
+}
+.sum{
+    margin-left: 364px;
+    margin-top: -55px;
+}
+.a0{
+    margin-left: 10px;
+    margin-top: 10px;
+}
+.point{
+    margin-left: 129px;
+    margin-top: -54px;
+}
+.per{
+    margin-left: 246px;
+    margin-top: -55px;
+}
+.equal{
+    margin-left: 364px;
+    margin-top: -55px;
+}
